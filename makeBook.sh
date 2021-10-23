@@ -9,7 +9,7 @@
 
 tabs=( $(ls tabs/) )
 
-python3 group_by_artist.py
+python3 sort_by_artist.py
 
 target=new_testament.tex
 # write the .tex file
@@ -36,7 +36,7 @@ header=(
         "\\\newpage" 
         "\\\tableofcontents" 
         "\\\newpage" 
-        "\\input{group_by_artist.tex}"
+        "\\input{sort_by_artist.tex}"
         "\\\newpage" 
         " " 
         )
