@@ -3,7 +3,6 @@ New testament tunes
 
 [link to
 playlist](https://open.spotify.com/playlist/5fJqZf0OwtCaEy8PKwoJCI?si=4451213ac38a4384)
-This is (improved from being) a damn mess
 
 To compile (this does some other operations too...):
 
@@ -20,5 +19,3 @@ for spaces:
 
 *process.py* is a sort of html processor that removes characters that LaTeX
 doesn't like
-
-
